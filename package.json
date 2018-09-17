@@ -1,0 +1,7 @@
+{
+  "name": "report-coin-volume",
+  "version": "1.0.0",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
